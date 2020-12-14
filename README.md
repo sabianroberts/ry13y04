@@ -1,2 +1,1 @@
-# ry13y04.github.io
-This is my personal website.
+# Ry13y04's Website
