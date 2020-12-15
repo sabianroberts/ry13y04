@@ -1,0 +1,18 @@
+body {
+    font-family: nobileregular;
+}
+
+@font-face {
+    font-family: 'nobileregular';
+    src: url('webfonts/nobile-regular-webfont.woff2') format('woff2'),
+         url('webfonts/nobile-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#avatar {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
