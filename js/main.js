@@ -1,6 +1,6 @@
 function playTabSound() {
     var buttonsound = document.getElementById("clicksound")
-    buttonsound.play()
+    buttonsound.play();
 }
 
 function playHoverSound(soundobj) {
